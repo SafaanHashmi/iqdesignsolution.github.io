@@ -44,6 +44,27 @@
 		display: none;
 	  }
 	}
+	.about-btn{
+		font-family: "Poppins", sans-serif;
+		text-transform: uppercase;
+		font-weight: 500;
+		font-size: 14px;
+		letter-spacing: 1px;
+		display: inline-block;
+		padding: 10px 25px;
+		border-radius: 2px;
+		transition: 0.4s;
+		margin: 10px;
+		border-radius: 4px;
+		border: 2px solid #cfbe9a;
+		color: #86653b;
+		background: #fff;
+	}
+	.about-btn:hover{
+		background: #cfbe9a;
+		color: #fff;
+	}
+	
   </style>
 
 </head>
@@ -73,7 +94,7 @@
               <li><a href="kitchen.php">Kitchen</a></li>
             </ul>
           </li>
-          <li><a class="hover-underline-animation" href="blog.php">Blog</a></li>
+          <li><a class="hover-underline-animation" href="blog.php">Process</a></li>
           <li><a class="hover-underline-animation" href="contact.php">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -100,22 +121,22 @@
 
         <!-- Slide 2 -->
         <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg);">
-          <div class="carousel-container">
+          <!--<div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
               <h2 style="text-align: center;">Welcome to <span>IQ Design Solutions</span></h2>
               <h5 style="text-align: center;font-family: 'Indie Flower', cursive;">Drawing your Dream House</h5>
             </div>
-          </div>
+          </div>-->
         </div>
 
         <!-- Slide 3 -->
         <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg);">
-          <div class="carousel-container">
+        <!--  <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
               <h2 style="text-align: center;">Welcome to <span>IQ Design Solutions</span></h2>
               <h5 style="text-align: center;font-family: 'Indie Flower', cursive;">Drawing your Dream House</h5>
             </div>
-          </div>
+          </div>-->
         </div>
 
       </div>
@@ -159,16 +180,16 @@
       <div class="container">
 	  
 		<div class="section-title" data-aos="fade-up">
-          <h2>Mini <strong>Porfolio</strong> </h2>
+          <h2><strong>Porfolio</strong> </h2>
 		</div>
 		
         <div class="row" data-aos="fade-up">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">Exterior</li>
+              <li  data-filter=".filter-app">Exterior</li>
               <li data-filter=".filter-card">Interior</li>
-              <li data-filter=".filter-web">Kitchen</li>
+              <li data-filter=".filter-web">Plan</li>
             </ul>
           </div>
         </div>
@@ -176,55 +197,55 @@
         <div class="row portfolio-container" data-aos="fade-up">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-			<a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Exterior 1">
+			<a href="assets/img/portfolio/portfolio-1-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Exterior 1">
 				<img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
 			</a>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Kitchen 1">
+            <a href="assets/img/portfolio/portfolio-2-full.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Kitchen 1">
 				<img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
             </a>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Exterior 2">
+            <a href="assets/img/portfolio/portfolio-3-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Exterior 2">
 				<img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
             </a>  
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Interior 2">
+            <a href="assets/img/portfolio/portfolio-4-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Interior 2">
 				<img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
             </a>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-			<a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Kitchen 2">
+			<a href="assets/img/portfolio/portfolio-5-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Kitchen 2">
 				<img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
             </a>  
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Exterior 3">
+            <a href="assets/img/portfolio/portfolio-6-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Exterior 3">
 				<img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
             </a>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Interior 1">
+            <a href="assets/img/portfolio/portfolio-7-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Interior 1">
 				<img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
             </a>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Interior 3">
+            <a href="assets/img/portfolio/portfolio-8-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Interior 3">
 				<img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
             </a>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Kitchen 3">
+            <a href="assets/img/portfolio/portfolio-9-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Kitchen 3">
 				<img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
             </a>
           </div>
@@ -240,15 +261,19 @@
     <section id="clients" class="clients">
       <div class="container">
 
-        <div class="section-title" data-aos="fade-up">
+        <div class="section-title" data-aos="fade-up" style="margin-bottom: -20px;">
           <h2><strong>About</strong> Us</h2>
           <p>We are a team of full enthusiastic Architects and Civil Engineers specialized in Architectural , Interior , Landscape , Urban development 
 		  and Infrastructural projects. As what we design today in paper will be constructed within a year or two , we’re used to work in fusture , aesthetic 
 		  and sustainable minds , we ensure that we treat every project as our First project. Servics which we offer includes following.</p>
         </div>
-
+	
         <div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
-
+		
+			<div class="cta-btn-container text-center" style="margin-left: auto;margin-right: auto;">
+				<a class="about-btn align-middle" href="about.php" > Know More</a>
+			</div>
+		<!--
           <div class="col-lg-4 col-md-4 col-xs-6">
             <div class="client-logo">
               <h3>Exterior Work</h3>
@@ -284,9 +309,9 @@
               <h3>Renovation</h3>
             </div>
           </div>
-
+		-->
         </div>
-
+	
       </div>
     </section><!-- End Our Clients Section -->
 	
@@ -303,9 +328,7 @@
           <div class="col-lg-4 col-md-6 footer-contact">
             <h3>IQ Design Solution</h3>
             <p>
-              XYZ Street <br>
-              Indore, MP 535022<br>
-              India<br><br>
+              
               <strong>Phone:</strong> +91 9988998899<br>
               <strong>Email:</strong> xyz@gmail.com<br>
             </p>
@@ -316,16 +339,16 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="about.php">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="about.php">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services.php">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Email Us</h4>
+            <h4>Email Us at &nbsp; : &nbsp;  xyz@gmail.com</h4> 
             <form action="https://mail.google.com/mail/?view=cm&fs=1&to=iqsolutionsindore@gmail.com" method="post" style="margin-top: 10px;">
-              <input type="email" name="email" placeholder="Enter you email"><input type="submit" value="Subscribe">
+              <input type="email" name="email" placeholder="Enter you email"><input type="submit" value="Mail">
             </form>
           </div>
 
@@ -335,9 +358,9 @@
 
     <div class="container d-md-flex py-4">
 
-      <div class="me-md-auto text-center text-md-start">
+      <!--<div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-        <!--  &copy; Copyright <strong><span></span></strong>
+          &copy; Copyright <strong><span></span></strong>
         </div>
         <div class="credits">
          <a href="https://bootstrapmade.com/"></a>
@@ -349,7 +372,7 @@
         <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
         <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-      </div>
+      </div>-->
     </div>
   </footer><!-- End Footer -->
 

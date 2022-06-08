@@ -72,7 +72,7 @@
                 <li><a href="kitchen.php">Kitchen</a></li>
             </ul>
           </li>
-          <li><a class="hover-underline-animation" href="blog.php">Blog</a></li>
+          <li><a class="hover-underline-animation" href="blog.php">Process</a></li>
           <li><a class="active hover-underline-animation" href="contact.php">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -114,19 +114,13 @@
 
             <div class="info-wrap">
               <div class="row">
-                <div class="col-lg-4 info">
-                  <i class="bi bi-geo-alt"></i>
-                  <h4>Location:</h4>
-                  <p>XYZ Street, Indore,<br>M.P. 535022, India</p>
-                </div>
-
-                <div class="col-lg-4 info mt-4 mt-lg-0">
+                <div class="col-lg-6 info mt-6 mt-lg-0" style="margin-bottom: 20px;">
                   <i class="bi bi-envelope"></i>
                   <h4>Email:</h4>
                   <p>xyz@gmail.com<br>abc@gmail.com</p>
                 </div>
 
-                <div class="col-lg-4 info mt-4 mt-lg-0">
+                <div class="col-lg-6 info mt-6 mt-lg-0">
                   <i class="bi bi-phone"></i>
                   <h4>Call:</h4>
                   <p>+91 9988998899<br>+91 8899889988</p>
@@ -167,7 +161,7 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="about.php">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="about.php">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services.php">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>

@@ -64,7 +64,7 @@
           <li><a class="hover-underline-animation" href="index.php">Home</a></li>
           <li><a class="hover-underline-animation" href="about.php">About</a></li>
           <li><a class="active hover-underline-animation" href="services.php">Services</a></li>
-          <li><a class="hover-underline-animation" href="pricing.php">Youtube</a></li>
+          <li><a class="hover-underline-animation" href="youtube.php">Youtube</a></li>
           <li class="dropdown"><a href="#"><span>Portfolio</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
 				<li><a href="interior.php">Interior</a></li>
@@ -72,7 +72,7 @@
                 <li><a href="kitchen.php">Kitchen</a></li>
             </ul>
           </li>
-          <li><a class="hover-underline-animation" href="blog.php">Process</a></li>
+          <li><a class="hover-underline-animation" href="process.php">Process</a></li>
           <li><a class="hover-underline-animation" href="contact.php">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>

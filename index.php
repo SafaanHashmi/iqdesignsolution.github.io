@@ -94,7 +94,7 @@
               <li><a href="kitchen.php">Kitchen</a></li>
             </ul>
           </li>
-          <li><a class="hover-underline-animation" href="blog.php">Process</a></li>
+          <li><a class="hover-underline-animation" href="process.php">Process</a></li>
           <li><a class="hover-underline-animation" href="contact.php">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>

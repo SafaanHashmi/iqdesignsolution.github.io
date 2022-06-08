@@ -676,7 +676,7 @@ section {
 .portfolio #portfolio-flters li {
   cursor: pointer;
   display: inline-block;
-  padding: 8px 20px 10px 20px;
+  padding: 8px 10px 10px 10px;
   font-size: 14px;
   font-weight: 400;
   line-height: 1;
@@ -810,11 +810,11 @@ section {
 
 /*--------------------------------------------------------------
 # Clients
---------------------------------------------------------------*/
+--------------------------------------------------------------
 .clients .clients-wrap {
   border-top: 1px solid #f1eeed;
   border-left: 1px solid #f1eeed;
-}
+}*/
 .clients .client-logo {
   padding: 20px;
   display: flex;
@@ -1193,7 +1193,7 @@ section {
   margin: 0;
 }
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
-  color: #fecfc0;
+  color: #cfbe9a;
   font-size: 26px;
 }
 .testimonials .testimonial-item .quote-icon-left {

@@ -73,7 +73,7 @@
                 <li><a href="kitchen.php">Kitchen</a></li>
             </ul>
           </li>
-          <li><a class="hover-underline-animation" href="blog.php">Blog</a></li>
+          <li><a class="hover-underline-animation" href="blog.php">Process</a></li>
           <li><a class="hover-underline-animation" href="contact.php">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -111,28 +111,28 @@
             <div class="content d-flex flex-column justify-content-center">
               <h3 data-aos="fade-up">We deal with Architectural , Interior , Landscape , Urban development and Infrastructural projects</h3>
               <p data-aos="fade-up">
-                We are a team of full enthusiastic Architects and Civil Engineers specialized in Architectural , Interior , Landscape , Urban development and Infrastructural projects.
+                We are a team of full enthusiastic Architects and Civil Engineers specialized in Architectural , Interior , Landscape , Urban development and Infrastructural projects.We priopties following things,
               </p>
               <div class="row">
                 <div class="col-md-6 icon-box" data-aos="fade-up">
-                  <i class="bx bx-receipt"></i>
-                  <h4>First Point</h4>
-                  <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                  <i class='bx bx-happy'></i>
+                  <h4>Customer Satifaction</h4>
+                  <p>IQ Design Solution provides a comprehensive range of services to fulfill the complete needs of our clients.</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
                   <i class="bx bx-cube-alt"></i>
-                  <h4>Second Point</h4>
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                  <h4>Latest Technology</h4>
+                  <p>We are providing latest trends in technology, unique design, high quality visualization and innovative approach.</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-                  <i class="bx bx-images"></i>
-                  <h4>Third Point</h4>
-                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                  <i class='bx bx-wallet'></i>
+                  <h4>True Pricing</h4>
+                  <p>Our pricing are best in market without any hidden charges.</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-                  <i class="bx bx-shield"></i>
-                  <h4>Fourth Point</h4>
-                  <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                  <i class='bx bxs-tree'></i>
+                  <h4>Enviroment Friendly</h4>
+                  <p>We Care About Our Communities And The Environment, </p>
                 </div>
               </div>
             </div><!-- End .content-->
@@ -142,93 +142,45 @@
       </div>
     </section><!-- End About Us Section -->
 
-    <!-- ======= Our Team Section ======= -->
-    <section id="team" class="team section-bg">
+     <!-- ======= Testimonials Section ======= -->
+    <section id="testimonials" class="testimonials">
       <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>Our <strong>Team</strong></h2>
-          <p>We are a team of full enthusiastic Architects and Civil Engineers specialized in different fields and operations, meet our team members-:</p>
+	  
+		<div class="section-title" data-aos="fade-up">
+          <h2>Testimonials <strong></strong> </h2>
+          <p>This is what our customers say about our work</p>
         </div>
-
+		
         <div class="row">
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up">
-              <div class="member-img">
-                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Member One</h4>
-                <span>Chief Executive Officer</span>
-              </div>
+          <div class="col-lg-6" data-aos="fade-up">
+            <div class="testimonial-item">
+              <img src="assets/img/testimonials/profile1.jpg" class="testimonial-img" alt="">
+              <h3>Shahid Khan</h3>
+              <p>
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                Really impressed by their work, got exactly what i wanted, thanks IQ Solutions.
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Member Two</h4>
-                <span>Product Manager</span>
-              </div>
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="testimonial-item mt-4 mt-lg-0">
+              <img src="assets/img/testimonials/profile1.jpg" class="testimonial-img" alt="">
+              <h3>Atul Jain</h3>
+              <p>
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+				IQ Solutions is a one of the best Construction Company in Indore with a unique strategy.
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
             </div>
           </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Member Three</h4>
-                <span>CTO</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Member Four</h4>
-                <span>Accountant</span>
-              </div>
-            </div>
-          </div>
-
-        </div>
+		  
+		</div>
 
       </div>
-    </section><!-- End Our Team Section -->
+    </section><!-- End Testimonials Section -->
 
 
   </main>
@@ -258,7 +210,7 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="about.php">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="about.php">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services.php">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>

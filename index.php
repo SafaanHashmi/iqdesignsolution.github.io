@@ -1,4 +1,6 @@
-<!--#cfbe9a cream-->
+<!--#cfbe9a cream
+iq95designer@gmail.com
+-->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,7 +8,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>IQ Design Solutions Indore </title>
+  <title>IQ Design Solution Indore | Best Architecture Company in Indore</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -76,7 +78,7 @@
     <div class="container d-flex justify-content-between">
 
       <div class="logo">
-        <h1 class="text-light"><a href="index.php">IQ Design Solutions</a></h1>
+        <h1 class="text-light"><a href="index.php">IQ Design Solution</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -113,7 +115,7 @@
         <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg);">
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
-              <h2 style="text-align: center;">Welcome to <span>IQ Design Solutions</span></h2>
+              <h2 style="text-align: center;">Welcome to <span>IQ Design Solution</span></h2>
               <h5 style="text-align: center;font-family: 'Indie Flower', cursive;">Drawing your Dream House</h5>
             </div>
           </div>
@@ -123,7 +125,7 @@
         <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg);">
           <!--<div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
-              <h2 style="text-align: center;">Welcome to <span>IQ Design Solutions</span></h2>
+              <h2 style="text-align: center;">Welcome to <span>IQ Design Solution</span></h2>
               <h5 style="text-align: center;font-family: 'Indie Flower', cursive;">Drawing your Dream House</h5>
             </div>
           </div>-->
@@ -133,7 +135,7 @@
         <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg);">
         <!--  <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
-              <h2 style="text-align: center;">Welcome to <span>IQ Design Solutions</span></h2>
+              <h2 style="text-align: center;">Welcome to <span>IQ Design Solution</span></h2>
               <h5 style="text-align: center;font-family: 'Indie Flower', cursive;">Drawing your Dream House</h5>
             </div>
           </div>-->
@@ -168,7 +170,7 @@
             <p> The quote to which we relate the most, as beign a startup we are here with the motive that we can change the world.  So give us a chance to make your dreams into a bigger reality. </p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="https://wa.me/919685617617" target="_blank" ><span><i class="ri-whatsapp-line"></i></span>&nbsp; Click to chat</a>
+            <a class="cta-btn align-middle" href="https://wa.me/919644467873" target="_blank" ><span><i class="ri-whatsapp-line"></i></span>&nbsp; Click to chat</a>
           </div>
         </div>
 
@@ -180,14 +182,14 @@
       <div class="container">
 	  
 		<div class="section-title" data-aos="fade-up">
-          <h2><strong>Porfolio</strong> </h2>
+          <h2><strong>Porftolio</strong> </h2>
 		</div>
 		
         <div class="row" data-aos="fade-up">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li  data-filter=".filter-app">Exterior</li>
+              <!--<li data-filter="*" class="filter-active">All</li>-->
+              <li  data-filter=".filter-app" class="filter-active">Exterior</li>
               <li data-filter=".filter-card">Interior</li>
               <li data-filter=".filter-web">Plan</li>
             </ul>
@@ -197,61 +199,68 @@
         <div class="row portfolio-container" data-aos="fade-up">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-			<a href="assets/img/portfolio/portfolio-1-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Exterior 1">
+			<a href="assets/img/portfolio/portfolio-1-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
 				<img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
 			</a>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="assets/img/portfolio/portfolio-2-full.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Kitchen 1">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web" style="display:none;">
+            <a href="assets/img/portfolio/portfolio-2-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
 				<img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
             </a>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="assets/img/portfolio/portfolio-3-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Exterior 2">
+            <a href="assets/img/portfolio/portfolio-3-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
 				<img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
             </a>  
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <a href="assets/img/portfolio/portfolio-4-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Interior 2">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card" style="display:none;">
+            <a href="assets/img/portfolio/portfolio-4-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
 				<img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
             </a>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-			<a href="assets/img/portfolio/portfolio-5-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Kitchen 2">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web" style="display:none;">
+			<a href="assets/img/portfolio/portfolio-5-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
 				<img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
             </a>  
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="assets/img/portfolio/portfolio-6-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Exterior 3">
+            <a href="assets/img/portfolio/portfolio-6-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
 				<img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
             </a>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <a href="assets/img/portfolio/portfolio-7-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Interior 1">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card" style="display:none;">
+            <a href="assets/img/portfolio/portfolio-7-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
 				<img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
             </a>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <a href="assets/img/portfolio/portfolio-8-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Interior 3">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card" style="display:none;">
+            <a href="assets/img/portfolio/portfolio-8-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
 				<img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
             </a>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="assets/img/portfolio/portfolio-9-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Kitchen 3">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web" style="display:none;">
+            <a href="assets/img/portfolio/portfolio-9-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
 				<img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
             </a>
           </div>
 
         </div>
-
+	
+		
+        <div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
+			<div class="cta-btn-container text-center" style="margin-left: auto;margin-right: auto;">
+				<a class="about-btn align-middle" href="interior.php" > Visit More Images</a>
+			</div>
+		</div>
+			
       </div>
     </section><!-- End Portfolio Section -->
 
@@ -329,8 +338,8 @@
             <h3>IQ Design Solution</h3>
             <p>
               
-              <strong>Phone:</strong> +91 9988998899<br>
-              <strong>Email:</strong> xyz@gmail.com<br>
+              <strong>Phone:</strong>&nbsp;+91 96444-67873<br>
+              <strong>Email:</strong>&nbsp;&nbsp;  iq95designer@gmail.com<br>
             </p>
           </div>
 
@@ -346,10 +355,21 @@
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Email Us at &nbsp; : &nbsp;  xyz@gmail.com</h4> 
-            <form action="https://mail.google.com/mail/?view=cm&fs=1&to=iqsolutionsindore@gmail.com" method="post" style="margin-top: 10px;">
-              <input type="email" name="email" placeholder="Enter you email"><input type="submit" value="Mail">
-            </form>
+			<div class="row">
+				<h4>Email Us at &nbsp; : &nbsp;  <i>iq95designer@gmail.com</i></h4> 
+				<form action="https://mail.google.com/mail/?view=cm&fs=1&to=iq95designer@gmail.com" method="post" style="margin-top: 10px;width: 95%;margin-left: 7px;">
+				  <input type="email" name="email" placeholder="Enter you email"><input type="submit" value="Mail">
+				</form>
+			</div>
+			<div class="row">
+				<div class="social-links text-center text-md-right pt-3 pt-md-0" style="margin-top: 30px;">
+					<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+					<a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+					<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+					<a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+					<a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+				</div>
+			</div>
           </div>
 
         </div>

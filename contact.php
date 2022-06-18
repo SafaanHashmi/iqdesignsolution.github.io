@@ -117,13 +117,13 @@
                 <div class="col-lg-6 info mt-6 mt-lg-0" style="margin-bottom: 20px;">
                   <i class="bi bi-envelope"></i>
                   <h4>Email:</h4>
-                  <p>xyz@gmail.com<br>abc@gmail.com</p>
+                  <p>iq95designer@gmail.com</p>
                 </div>
 
                 <div class="col-lg-6 info mt-6 mt-lg-0">
                   <i class="bi bi-phone"></i>
                   <h4>Call:</h4>
-                  <p>+91 9988998899<br>+91 8899889988</p>
+                  <p>+91 96444-67873</p>
                 </div>
               </div>
             </div>
@@ -148,11 +148,9 @@
           <div class="col-lg-4 col-md-6 footer-contact">
             <h3>IQ Design Solution</h3>
             <p>
-              XYZ Street <br>
-              Indore, MP 535022<br>
-              India<br><br>
-              <strong>Phone:</strong> +91 9988998899<br>
-              <strong>Email:</strong> xyz@gmail.com<br>
+              
+              <strong>Phone:</strong>&nbsp;+91 96444-67873<br>
+              <strong>Email:</strong>&nbsp;&nbsp;  iq95designer@gmail.com<br>
             </p>
           </div>
 
@@ -168,10 +166,21 @@
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Email Us</h4>
-            <form action="https://mail.google.com/mail/?view=cm&fs=1&to=iqsolutionsindore@gmail.com" method="post" style="margin-top: 10px;">
-              <input type="email" name="email" placeholder="Enter you email"><input type="submit" value="Subscribe">
-            </form>
+			<div class="row">
+				<h4>Email Us at &nbsp; : &nbsp;  <i>iq95designer@gmail.com</i></h4> 
+				<form action="https://mail.google.com/mail/?view=cm&fs=1&to=iq95designer@gmail.com" method="post" style="margin-top: 10px;width: 95%;margin-left: 7px;">
+				  <input type="email" name="email" placeholder="Enter you email"><input type="submit" value="Mail">
+				</form>
+			</div>
+			<div class="row">
+				<div class="social-links text-center text-md-right pt-3 pt-md-0" style="margin-top: 30px;">
+					<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+					<a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+					<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+					<a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+					<a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+				</div>
+			</div>
           </div>
 
         </div>
@@ -180,9 +189,9 @@
 
     <div class="container d-md-flex py-4">
 
-      <div class="me-md-auto text-center text-md-start">
+      <!--<div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-        <!--  &copy; Copyright <strong><span></span></strong>
+          &copy; Copyright <strong><span></span></strong>
         </div>
         <div class="credits">
          <a href="https://bootstrapmade.com/"></a>
@@ -194,7 +203,7 @@
         <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
         <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-      </div>
+      </div>-->
     </div>
   </footer><!-- End Footer -->
 

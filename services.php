@@ -69,7 +69,7 @@
             <ul>
 				<li><a href="interior.php">Interior</a></li>
                 <li><a href="exterior.php">Exterior</a></li>
-                <li><a href="kitchen.php">Kitchen</a></li>
+                <li><a href="plan.php">Floor Plan</a></li>
             </ul>
           </li>
           <li><a class="hover-underline-animation" href="process.php">Process</a></li>
@@ -137,8 +137,6 @@
 
       </div>
     </section><!-- End Services Section -->
-	
-	
 	
  <!-- ======= Features Section ======= -->
     <section id="features" class="features" style="margin-top: 30px;">
@@ -229,7 +227,7 @@
               </div>
               <div class="tab-pane" id="tab-4" style="padding-top: 2px;">
                 <div style="padding-top: 20px; padding-left: 20px; box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;">
-					<h4>Structural Services are as follows -:</h4>
+					<h4>We offer numerous Structural Services -:</h4>
 					<div class="row">
 						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
 							<h5>Coloumn Layout</h5>
@@ -238,10 +236,16 @@
 							<h5>Coulumn Center Line</h5>
 						</div>
 						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
-							<h5>Functional Celling Design</h5>
+							<h5>Foundation</h5>
 						</div>
 						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
-							<h5>3d View</h5>
+							<h5>Revolution Schedule</h5>
+						</div>
+						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+							<h5>Plinth Beam</h5>
+						</div>
+						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+							<h5>Roof Beam</h5>
 						</div>
 					</div>
 				</div>
@@ -254,12 +258,6 @@
     </section><!-- End Features Section -->
 
 
-   
-
-   
-  
-	
-	
   </main>
   <!-- End #main -->
 	

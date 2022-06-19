@@ -69,7 +69,7 @@
             <ul>
 				<li><a href="interior.php">Interior</a></li>
                 <li><a href="exterior.php">Exterior</a></li>
-                <li><a href="kitchen.php">Kitchen</a></li>
+                <li><a href="plan.php">Floor Plan</a></li>
             </ul>
           </li>
           <li><a class="hover-underline-animation" href="process.php">Process</a></li>

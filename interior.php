@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>IQ Design Solutions Indore </title>
+  <title>IQ Design Solution Indore </title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -55,7 +55,7 @@
     <div class="container d-flex justify-content-between">
 
       <div class="logo">
-        <h1 class="text-light"><a href="index.php">IQ Design Solutions</a></h1>
+        <h1 class="text-light"><a href="index.php">IQ Design Solution</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -105,19 +105,17 @@
 			<h2 style="text-align: left;"> <strong><i class="ri-star-line"></i> Bedroom </strong> Degisn 1 </h2>
         </div>
         <div class="row portfolio-container" data-aos="fade-up">
-		  
           <div class="col-lg-4 col-md-6 portfolio-item">
-			<a href="assets/img/portfolio/main/portfolio-1.1-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
-				<img src="assets/img/portfolio/main/portfolio-1.1-main.jpg" class="img-fluid image-info" alt="">
+			<a href="assets/img/portfolio/interior-main/portfolio-1.1-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-1.1-main.jpg" class="img-fluid image-info" alt="">
 				<div class="portfolio-info">
 					<h2 style="color: black; text-align: center;">Click for full image</h2>
 				</div>
 			</a>
           </div>
-
           <div class="col-lg-4 col-md-6 portfolio-item">
-			<a href="assets/img/portfolio/main/portfolio-1.2-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
-				<img src="assets/img/portfolio/main/portfolio-1.2-main.jpg" class="img-fluid image-info" alt="">
+			<a href="assets/img/portfolio/interior-main/portfolio-1.2-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-1.2-main.jpg" class="img-fluid image-info" alt="">
 				<div class="portfolio-info">
 					<h2 style="color: black; text-align: center;">Click for full image</h2>
 				</div>
@@ -131,14 +129,13 @@
         </div>
         <div class="row portfolio-container" data-aos="fade-up">
           <div class="col-lg-4 col-md-6 portfolio-item">
-			<a href="assets/img/portfolio/main/portfolio-2.1-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
-				<img src="assets/img/portfolio/main/portfolio-2.1-main.jpg" class="img-fluid image-info" alt="">
+			<a href="assets/img/portfolio/interior-main/portfolio-2.1-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-2.1-main.jpg" class="img-fluid image-info" alt="">
 			</a>
           </div>
-
           <div class="col-lg-4 col-md-6 portfolio-item">
-			<a href="assets/img/portfolio/main/portfolio-2.2-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
-				<img src="assets/img/portfolio/main/portfolio-2.2-main.jpg" class="img-fluid image-info" alt="">
+			<a href="assets/img/portfolio/interior-main/portfolio-2.2-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-2.2-main.jpg" class="img-fluid image-info" alt="">
 			</a>
           </div>
         </div>
@@ -149,18 +146,92 @@
         </div>
         <div class="row portfolio-container" data-aos="fade-up">
           <div class="col-lg-4 col-md-6 portfolio-item">
-			<a href="assets/img/portfolio/main/portfolio-3.1-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
-				<img src="assets/img/portfolio/main/portfolio-3.1-main.jpg" class="img-fluid image-info" alt="">
+			<a href="assets/img/portfolio/interior-main/portfolio-3.1-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-3.1-main.jpg" class="img-fluid image-info" alt="">
 			</a>
           </div>
-
           <div class="col-lg-4 col-md-6 portfolio-item">
-			<a href="assets/img/portfolio/main/portfolio-3.2-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
-				<img src="assets/img/portfolio/main/portfolio-3.2-main.jpg" class="img-fluid image-info" alt="">
+			<a href="assets/img/portfolio/interior-main/portfolio-3.2-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-3.2-main.jpg" class="img-fluid image-info" alt="">
 			</a>
           </div>
         </div>
-
+		
+		<div class="section-title" data-aos="fade-up" style="padding-bottom: 5px;">
+			<h2 style="text-align: left;"> <strong><i class="ri-star-line"></i> Bedroom </strong> Degisn 4 </h2>
+        </div>
+        <div class="row portfolio-container" data-aos="fade-up">
+          <div class="col-lg-4 col-md-6 portfolio-item">
+			<a href="assets/img/portfolio/interior-main/portfolio-4.1-main-full.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-4.1-main.jpeg" class="img-fluid image-info" alt="">
+			</a>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item">
+			<a href="assets/img/portfolio/interior-main/portfolio-4.2-main-full.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-4.2-main.jpeg" class="img-fluid image-info" alt="">
+			</a>
+          </div>
+		  <div class="col-lg-4 col-md-6 portfolio-item">
+			<a href="assets/img/portfolio/interior-main/portfolio-4.3-main-full.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-4.3-main.jpeg" class="img-fluid image-info" alt="">
+			</a>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item">
+			<a href="assets/img/portfolio/interior-main/portfolio-4.4-main-full.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-4.4-main.jpeg" class="img-fluid image-info" alt="">
+			</a>
+          </div>
+		  <div class="col-lg-4 col-md-6 portfolio-item">
+			<a href="assets/img/portfolio/interior-main/portfolio-4.5-main-full.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-4.5-main.jpeg" class="img-fluid image-info" alt="">
+			</a>
+          </div>
+		</div>
+		  
+		  
+		<div class="section-title" data-aos="fade-up" style="padding-bottom: 5px;">
+			<h2 style="text-align: left;"> <strong><i class="ri-star-line"></i> Kitchen </strong> Degisn 1 </h2>
+        </div>
+        <div class="row portfolio-container" data-aos="fade-up">
+			<div class="col-lg-4 col-md-6 portfolio-item">
+				<a href="assets/img/portfolio/interior-main/portfolio-5.1-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-5.1-main.jpg" class="img-fluid image-info" alt="">
+			</a>
+			</div>
+			<div class="col-lg-4 col-md-6 portfolio-item">
+				<a href="assets/img/portfolio/interior-main/portfolio-5.2-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+					<img src="assets/img/portfolio/interior-main/portfolio-5.2-main.jpg" class="img-fluid image-info" alt="">
+				</a>
+			</div>
+			<div class="col-lg-4 col-md-6 portfolio-item">
+				<a href="assets/img/portfolio/interior-main/portfolio-5.3-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+					<img src="assets/img/portfolio/interior-main/portfolio-5.3-main.jpg" class="img-fluid image-info" alt="">
+				</a>
+			</div>
+		</div>
+		
+		
+		<div class="section-title" data-aos="fade-up" style="padding-bottom: 5px;">
+			<h2 style="text-align: left;"> <strong><i class="ri-star-line"></i> Office </strong> Degisn 1 </h2>
+        </div>
+        <div class="row portfolio-container" data-aos="fade-up">
+			<div class="col-lg-4 col-md-6 portfolio-item">
+				<a href="assets/img/portfolio/interior-main/portfolio-6.1-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-6.1-main.jpg" class="img-fluid image-info" alt="">
+			</a>
+			</div>
+			<div class="col-lg-4 col-md-6 portfolio-item">
+				<a href="assets/img/portfolio/interior-main/portfolio-6.2-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+					<img src="assets/img/portfolio/interior-main/portfolio-6.2-main.jpg" class="img-fluid image-info" alt="">
+				</a>
+			</div>
+			<div class="col-lg-4 col-md-6 portfolio-item">
+				<a href="assets/img/portfolio/interior-main/portfolio-6.3-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+					<img src="assets/img/portfolio/interior-main/portfolio-6.3-main.jpg" class="img-fluid image-info" alt="">
+				</a>
+			</div>
+		</div>
+		
       </div>
     </section><!-- End Portfolio Section -->
 

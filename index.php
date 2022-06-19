@@ -93,7 +93,7 @@ iq95designer@gmail.com
             <ul>
               <li><a href="interior.php">Interior</a></li>
               <li><a href="exterior.php">Exterior</a></li>
-              <li><a href="kitchen.php">Kitchen</a></li>
+              <li><a href="plan.php">Floor Plan</a></li>
             </ul>
           </li>
           <li><a class="hover-underline-animation" href="process.php">Process</a></li>
@@ -182,7 +182,7 @@ iq95designer@gmail.com
       <div class="container">
 	  
 		<div class="section-title" data-aos="fade-up">
-          <h2><strong>Porftolio</strong> </h2>
+          <h2><strong>Portfolio </strong> </h2>
 		</div>
 		
         <div class="row" data-aos="fade-up">

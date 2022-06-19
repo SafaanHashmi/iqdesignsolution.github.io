@@ -750,8 +750,15 @@ section {
   color: #fe825a;
 }
 .portfolio .portfolio-item:hover .portfolio-info {
-  opacity: 1;
-  bottom: 20px;
+    height: 70px;
+    opacity: 1;
+    bottom: 125px;
+    border-radius: 20px;
+	box-shadow: 0px 2px 10px #e7aa25;
+}
+
+.portfolio .portfolio-item:hover .image-info{
+	opacity: 0.4;
 }
 
 /*--------------------------------------------------------------

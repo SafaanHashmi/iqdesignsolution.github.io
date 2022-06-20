@@ -257,10 +257,10 @@ iq95designer@gmail.com
         </div>
 	
 		
-        <div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
-			<div class="cta-btn-container text-center" style="margin-left: auto;margin-right: auto;">
-				<a class="about-btn align-middle" href="interior.php" > Visit More Images</a>
-			</div>
+        <div class="cta-btn-container text-center" style="margin-left: auto;margin-right: auto;">
+			<a class="about-btn align-middle" href="exterior.php"> Visit Exterior Gallery &nbsp;<i class="ri-image-line"></i></a> 
+			<a class="about-btn align-middle" href="interior.php"> Visit Interior Gallery&nbsp; <i class="ri-image-line"></i></a>
+			<a class="about-btn align-middle" href="plan.php"> Visit Plan Gallery&nbsp; <i class="ri-image-line"></i></a>
 		</div>
 			
       </div>

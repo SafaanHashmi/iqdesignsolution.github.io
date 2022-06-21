@@ -37,6 +37,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Prompt&display=swap" rel="stylesheet">
   
   <style>
+
 	@media (max-width: 750px) {
 	  .hide-when-narrow {
 		display: none;
@@ -47,70 +48,6 @@
 		display: none;
 	  }
 	}
-	
-	:root {
-  --color-1: #186cb8;
-  --color-2: #2a9a9f;
-  --color-3: #f1b211;
-  --color-4: #e83611;
-  --color-5: #f9002f;
-}
-
-
-.wrapper1 {
-  background: #000;
-  line-height: 1;
-  min-height: 100%;
-  display: grid;
-  place-items: center;
-  min-height: calc(10vh - 16px);
-}
-
-.h1x {
-  font-family: "Exo", sans-serif;
-  font-size: 15vw;
-  font-weight: 900;
-  width: -webkit-min-content;
-  width: -moz-min-content;
-  width: min-content;
-  margin: auto;
-  text-transform: uppercase;
-  background: linear-gradient(219deg, 
-    var(--color-1) 19%, 
-    transparent 19%,transparent 20%, 
-    var(--color-2) 20%, var(--color-2)  39%,
-    transparent 39%,transparent 40%, 
-    var(--color-3) 40%,var(--color-3) 59% ,
-    transparent 59%,transparent 60%, 
-    var(--color-4) 60%, var(--color-4) 79%,
-    transparent 79%, transparent 80%, 
-    var(--color-5) 80%);
-  background-clip: text;
-  -webkit-background-clip: text;
-  color: transparent;
-}
-
-.container1 {
-  padding: 1.5rem;   
-  text-align: center;
-  background: radial-gradient(circle at 1.4% 1.4% ,var(--color-1) .8%,transparent  .8% ), 
-    radial-gradient(circle at 5.5% 3%,var(--color-2) .45% ,transparent .45% ), 
-    radial-gradient(circle at 2.5% 3.5%,var(--color-3) .5% ,transparent .5% ), 
-    radial-gradient(circle at 4.5% 1.2%,var(--color-4) .25%,transparent .25% ),
-
-    radial-gradient(circle at 98% 98% ,var(--color-1) .8%,transparent  .8% ), 
-    radial-gradient(circle at 95% 95%,var(--color-2) .45% ,transparent .45% ), 
-    radial-gradient(circle at 94.5% 97.5%,var(--color-3) .5% ,transparent .5% ), 
-    radial-gradient(circle at 98.5% 95.5%,var(--color-4) .25%,transparent .25% );
-
-
-}
-
-@media screen and (min-width: 768px) {
-  .h1x {
-    font-size: 6.5rem;
-  }
-}
   </style>
 
 </head>
@@ -168,15 +105,164 @@
       </div>
     </section><!-- End Breadcrumbs -->
 	
-	<!-- ======= Comming Soon ======= -->
-    <section>
-      <div class="container container1">
-		<div class="row wrapper1" style="text-align: center;" >
-			<h1 class="h1x">Comming Soon</h1>
-			<h3 style="color: white; font-family: 'Prompt', sans-serif; margin-top:10px">Go to next page</h3>
-		</div>
-	  </div>
-    </section>
+
+	<!-- ======= Our Skills Section ======= -->
+    <section id="skills" class="skills">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>Our <strong>Work </strong>Process</h2>
+        </div>
+
+        <div class="row skills-content hide-when-narrow ">
+          <div class="col-lg-6" data-aos="fade-up">
+            <div>
+              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem;">Mail Your Plan<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase;">Step 1 </span></span>
+			  <div class="progress">
+				  <div class="progress-bar-wrap" style="background: #cfbe9a;">
+					<div class="progress-bar" role="progressbar" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100" style="background: #86653b;"></div>
+				  </div>
+			  </div>
+            </div>
+
+            <div class="progress">
+              <!--<span class="skill">CSS <i class="val">90%</i></span>
+				  <div class="progress-bar-wrap">
+					<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+				  </div>-->
+            </div>
+
+            <div>
+              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem;">We release the Project Drafts<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase;">Step 3 </span></span>
+              <div class="progress">
+				  <div class="progress-bar-wrap" style="background: #cfbe9a;">
+					<div class="progress-bar" role="progressbar" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100" style="background: #86653b;"></div>
+				  </div>
+			  </div>
+            </div>
+			
+			<div class="progress">
+              <!--<span class="skill">CSS <i class="val">90%</i></span>
+				  <div class="progress-bar-wrap">
+					<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+				  </div>-->
+            </div>
+
+            <div>
+              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem;">We Share the Final Work<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase;">Step 5 </span></span>
+			  <div class="progress">
+				  <div class="progress-bar-wrap" style="background: #cfbe9a;">
+					<div class="progress-bar" role="progressbar" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100" style="background: #86653b;"></div>
+				  </div>
+			  </div>
+            </div>
+		  </div>
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="progress">
+             <!-- <span class="skill">PHP <i class="val">80%</i></span>
+				  <div class="progress-bar-wrap">
+					<div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+				  </div> -->
+            </div>
+
+            <div>
+              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem;">Step 2<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase;">We Share The Quote </span></span>
+              <div class="progress">
+				  <div class="progress-bar-wrap" style="background: #86653b;">
+					<div class="progress-bar" role="progressbar" aria-valuenow="12" aria-valuemin="0" aria-valuemax="100" style="background: #cfbe9a;"></div>
+				  </div>
+			  </div>
+            </div>
+
+            <div class="progress">
+             <!-- <span class="skill">PHP <i class="val">80%</i></span>
+				  <div class="progress-bar-wrap">
+					<div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+				  </div> -->
+            </div>
+
+            <div>
+              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem;">Step 4<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase;">Discussions / Revisions / Approval Phase</span></span>
+              <div class="progress">
+				  <div class="progress-bar-wrap" style="background: #86653b;">
+					<div class="progress-bar" role="progressbar" aria-valuenow="12" aria-valuemin="0" aria-valuemax="100" style="background: #cfbe9a;"></div>
+				  </div>
+			  </div>
+            </div>
+			
+			<div class="progress">
+             <!-- <span class="skill">PHP <i class="val">80%</i></span>
+				<div class="progress-bar-wrap">
+					<div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+				</div> -->
+            </div>
+
+             <div>
+              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem;">Step 6<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase;">Have Fun </span></span>
+              <div class="progress">
+				  <div class="progress-bar-wrap" style="background: #86653b;">
+					<div class="progress-bar" role="progressbar" aria-valuenow="12" aria-valuemin="0" aria-valuemax="100" style="background: #cfbe9a;"></div>
+				  </div>
+			  </div>
+            </div>
+          </div>
+        </div>
+		
+		<div class="row skills-content hide-when-wide ">
+          <div class="col-lg-6" data-aos="fade-up">
+
+            <div class="progress">
+              <span class="skill">Step 1 <i class="val">Mail Your Plan</i></span>
+              <div class="progress-bar-wrap" style="background: #cfbe9a;">
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="background: #86653b;"></div>
+              </div>
+            </div>
+			
+			<div class="progress">
+              <span class="skill">Step 2<i class="val">We Share The Quote</i></span>
+              <div class="progress-bar-wrap" style="background: #cfbe9a;">
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="background: #86653b;"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Step 3 <i class="val">We release the Project Drafts </i></span>
+              <div class="progress-bar-wrap" style="background: #cfbe9a;">
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="background: #86653b;"></div>
+              </div>
+            </div>
+
+		  </div>
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="progress">
+              <span class="skill">Step 4<i class="val">Discussions / Revisions / Approval Phase</i></span>
+              <div class="progress-bar-wrap" style="background: #cfbe9a;">
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="background: #86653b;"></div>
+              </div>
+            </div>
+			
+            <div class="progress">
+              <span class="skill">Step 5 <i class="val"> We Share the Final Work</i></span>
+              <div class="progress-bar-wrap" style="background: #cfbe9a;">
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="background: #86653b;"></div>
+              </div>
+            </div>
+			
+            <div class="progress">
+              <span class="skill">Step 6<i class="val">Have Fun</i></span>
+              <div class="progress-bar-wrap" style="background: #cfbe9a;">
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="background: #86653b;"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Our Skills Section -->
+	
 	
   </main>
   <!-- End #main -->

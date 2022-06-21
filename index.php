@@ -6,9 +6,15 @@ iq95designer@gmail.com
 
 <head>
   <meta charset="utf-8">
- 
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>IQ Design Solution Indore | Best Architecture Company in Indore</title>
+  <meta content="IQ Design Solution provides a comprehensive range of services to fulfill the complete needs of our client’s that include Architectural Design, Engineering and Building Services Design, Interior Design. We are providing latest trends in technology, unique design, high quality visualization and innovative approach to design and project delivery at specified time." name="description">
+  <meta content="IQ Design solution, IQ, Design, solution, Indore, Interior, exterior, house plan, floor plan, home decor, elevation, best startup in Indore, nadeem shaikh, best construction company in indore." name="keywords">
 
- 
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Muli:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -64,15 +70,7 @@ iq95designer@gmail.com
   </style>
 
 </head>
- <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>IQ Design Solution Indore | Best Architecture Company in Indore</title>
-  <meta content="IQ Design Solution provides a comprehensive range of services to fulfill the complete needs of our client’s that include Architectural Design, Engineering and Building Services Design, Interior Design. We are providing latest trends in technology, unique design, high quality visualization and innovative approach to design and project delivery at specified time." name="description">
-  <meta content="IQ Design solution, IQ, Design, solution, Indore, Interior, exterior, house plan, floor plan, home decor, elevation, best startup in Indore, nadeem shaikh, best construction company in indore." name="keywords">
-
-
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+ 
 <body>
 
 	<!-- ======= Header ======= -->

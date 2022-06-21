@@ -38,12 +38,12 @@
   
   <style>
 
-	@media (max-width: 750px) {
+	@media (max-width: 989px) {
 	  .hide-when-narrow {
 		display: none;
 	  }
 	}
-	@media (min-width: 751px) {
+	@media (min-width: 989px) {
 	  .hide-when-wide {
 		display: none;
 	  }

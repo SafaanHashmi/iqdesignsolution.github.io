@@ -115,12 +115,12 @@
         </div>
 
         <div class="row skills-content hide-when-narrow ">
-          <div class="col-lg-6" data-aos="fade-up">
+          <div class="col-lg-6" data-aos="fade-up" style="border-right: 5px solid #cfbe9a; padding-right: 0px;">
             <div>
-              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem;">Mail Your Plan<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase;">Step 1 </span></span>
+              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem;">Mail Your Plan<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase; padding-right: 15px;">Step 1 </span></span>
 			  <div class="progress">
 				  <div class="progress-bar-wrap" style="background: #cfbe9a;">
-					<div class="progress-bar" role="progressbar" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100" style="background: #86653b;"></div>
+					<div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="background: #86653b;"></div>
 				  </div>
 			  </div>
             </div>
@@ -133,10 +133,10 @@
             </div>
 
             <div>
-              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem;">We release the Project Drafts<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase;">Step 3 </span></span>
+              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem;">We release the Project Drafts<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase; padding-right: 15px;">Step 3 </span></span>
               <div class="progress">
 				  <div class="progress-bar-wrap" style="background: #cfbe9a;">
-					<div class="progress-bar" role="progressbar" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100" style="background: #86653b;"></div>
+					<div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="background: #86653b;"></div>
 				  </div>
 			  </div>
             </div>
@@ -149,16 +149,16 @@
             </div>
 
             <div>
-              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem;">We Share the Final Work<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase;">Step 5 </span></span>
+              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem;">We Share the Final Work<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase; padding-right: 15px;">Step 5 </span></span>
 			  <div class="progress">
 				  <div class="progress-bar-wrap" style="background: #cfbe9a;">
-					<div class="progress-bar" role="progressbar" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100" style="background: #86653b;"></div>
+					<div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="background: #86653b;"></div>
 				  </div>
 			  </div>
             </div>
 		  </div>
 
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100" style="padding-left: 0px;">
             <div class="progress">
              <!-- <span class="skill">PHP <i class="val">80%</i></span>
 				  <div class="progress-bar-wrap">
@@ -167,10 +167,10 @@
             </div>
 
             <div>
-              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem;">Step 2<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase;">We Share The Quote </span></span>
+              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem; padding-left: 14px;">Step 2<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase;">We Share The Quote </span></span>
               <div class="progress">
 				  <div class="progress-bar-wrap" style="background: #86653b;">
-					<div class="progress-bar" role="progressbar" aria-valuenow="12" aria-valuemin="0" aria-valuemax="100" style="background: #cfbe9a;"></div>
+					<div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style="background: #cfbe9a;"></div>
 				  </div>
 			  </div>
             </div>
@@ -183,10 +183,10 @@
             </div>
 
             <div>
-              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem;">Step 4<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase;">Discussions / Revisions / Approval Phase</span></span>
+              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem; padding-left: 14px;">Step 4<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase;">Discussions / Revisions / Approval Phase</span></span>
               <div class="progress">
 				  <div class="progress-bar-wrap" style="background: #86653b;">
-					<div class="progress-bar" role="progressbar" aria-valuenow="12" aria-valuemin="0" aria-valuemax="100" style="background: #cfbe9a;"></div>
+					<div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style="background: #cfbe9a;"></div>
 				  </div>
 			  </div>
             </div>
@@ -199,17 +199,17 @@
             </div>
 
              <div>
-              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem;">Step 6<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase;">Have Fun </span></span>
+              <span class="skill" style=" font-family: &quot;Poppins&quot;, sans-serif; font-weight: 600; font-size: 1.12rem; padding-left: 14px;">Step 6<span style="float: right; font-family: &quot;Poppins&quot;, sans-serif; text-transform: uppercase;">Have Fun </span></span>
               <div class="progress">
 				  <div class="progress-bar-wrap" style="background: #86653b;">
-					<div class="progress-bar" role="progressbar" aria-valuenow="12" aria-valuemin="0" aria-valuemax="100" style="background: #cfbe9a;"></div>
+					<div class="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style="background: #cfbe9a;"></div>
 				  </div>
 			  </div>
             </div>
           </div>
         </div>
 		
-		<div class="row skills-content hide-when-wide ">
+		<div class="row skills-content hide-when-wide">
           <div class="col-lg-6" data-aos="fade-up">
 
             <div class="progress">

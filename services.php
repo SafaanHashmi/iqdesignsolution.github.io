@@ -32,6 +32,10 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
   
+  <!-- Modal-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
   <style>
 	@media (max-width: 750px) {
 	  .hide-when-narrow {
@@ -106,39 +110,174 @@
 		
 		<div class="section-title" data-aos="fade-up">
           <h2><strong>Services</strong> we provide</h2>
+		  <h6>Click titles for more</h6>
         </div>
 		
         <div class="row">
           <div class="col-lg-3 col-md-6">
+			<a href="#modal1" data-toggle="modal" data-target="#modal1">
             <div class="icon-box" data-aos="fade-up" style="height: 120px;">
               <div class="icon"><i class='bx bx-buildings'></i></div>
-              <h4 class="title"><a href="">Exterior Work</a></h4>
+              <h4 class="title" style="color: #715347;">Exterior Work</h4>
             </div>
+			</a>
           </div>
           <div class="col-lg-3 col-md-6">
+			<a href="#model2" data-toggle="modal" data-target="#modal2">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100" style="height: 120px;">
               <div class="icon"><i class='bx bx-bed'></i></div>
-              <h4 class="title"><a href="">Interior Designing</a></h4>
+              <h4 class="title" style="color: #715347;">Interior Designing</h4>
             </div>
+			</a>
           </div>
           <div class="col-lg-3 col-md-6">
+		    <a href="#modal3" data-toggle="modal" data-target="#modal3">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200"  style="height: 120px;">
               <div class="icon"><i class='bx bx-edit-alt'></i></div>
-              <h4 class="title"><a href="">House Plan</a></h4>
+              <h4 class="title" style="color: #715347;">House Plan</h4>
             </div>
+			</a>
           </div>
           <div class="col-lg-3 col-md-6">
+			<a href="#modal4" data-toggle="modal" data-target="#modal4">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200" style="height: 120px;">
               <div class="icon"><i class="bi bi-binoculars"></i></div>
-              <h4 class="title"><a href="">Structure</a></h4>
+              <h4 class="title" style="color: #715347;">Structure</h4>
             </div>
+			</a>
           </div>
         </div>
+		
+		<div class="modal fade show" id="modal1"  tabindex="-1" role="dialog" aria-hidden="true" style="background-color:rgb(148 145 139 / 62%);">
+		  <div class="modal-dialog modal-dialog-centered" role="document">
+			<div class="modal-content">
+			  <div class="modal-header">
+				<h5 class="modal-title" id="exampleModalLongTitle">Exterior Work</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				  <span aria-hidden="true">&times;</span>
+				</button>
+			  </div>
+			  <div class="modal-body">
+				<h4>For exterior we offer following services -:</h4>
+				<div class="row">
+					<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+						<h5>2D Elevation</h5>
+					</div>
+					<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+						<h5>3D Elevation</h5>
+					</div>
+					<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+						<h5>Working Drawing</h5>
+					</div>
+				</div>
+			  </div>
+			  <div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-dismiss="modal" style="background-color: #cfbe9a;border-color: #cfbe9a;">Close</button>
+			  </div>
+			</div>
+		  </div>
+		</div>
+		<div class="modal fade show" id="modal2"  tabindex="-1" role="dialog" aria-hidden="true" style="background-color:rgb(148 145 139 / 62%);">
+		  <div class="modal-dialog modal-dialog-centered" role="document">
+			<div class="modal-content">
+			  <div class="modal-header">
+				<h5 class="modal-title" id="exampleModalLongTitle">Interior Designing</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				  <span aria-hidden="true">&times;</span>
+				</button>
+			  </div>
+			  <div class="modal-body">
+				<h4>For interior we offer following services -:</h4>
+					<div class="row">
+						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+							<h5>Furniture Layout</h5>
+						</div>
+						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+							<h5>Wall Elevation</h5>
+						</div>
+						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+							<h5>Electrical Celling Design</h5>
+						</div>
+						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+							<h5>3d View</h5>
+						</div>
+					</div>
+			  </div>
+			  <div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-dismiss="modal" style="background-color: #cfbe9a;border-color: #cfbe9a;">Close</button>
+			  </div>
+			</div>
+		  </div>
+		</div>
+		<div class="modal fade show" id="modal3"  tabindex="-1" role="dialog" aria-hidden="true" style="background-color:rgb(148 145 139 / 62%);">
+		  <div class="modal-dialog modal-dialog-centered" role="document">
+			<div class="modal-content">
+			  <div class="modal-header">
+				<h5 class="modal-title" id="exampleModalLongTitle">House Plan</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				  <span aria-hidden="true">&times;</span>
+				</button>
+			  </div>
+			  <div class="modal-body">
+				<h4>We provide 2 types of floor plans-:</h4>
+					<div class="row">
+						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+							<h5>Floor Plan</h5>
+						</div>
+						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+							<h5>3D Floor Plan</h5>
+						</div>
+					</div>
+			  </div>
+			  <div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-dismiss="modal" style="background-color: #cfbe9a;border-color: #cfbe9a;">Close</button>
+			  </div>
+			</div>
+		  </div>
+		</div>
+		<div class="modal fade show" id="modal4"  tabindex="-1" role="dialog" aria-hidden="true" style="background-color:rgb(148 145 139 / 62%);">
+		  <div class="modal-dialog modal-dialog-centered" role="document">
+			<div class="modal-content">
+			  <div class="modal-header">
+				<h5 class="modal-title" id="exampleModalLongTitle">Structural Services</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				  <span aria-hidden="true">&times;</span>
+				</button>
+			  </div>
+			  <div class="modal-body">
+				<h4>We offer numerous Structural Services -:</h4>
+					<div class="row">
+						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+							<h5>Coloumn Layout</h5>
+						</div>
+						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+							<h5>Coulumn Center Line</h5>
+						</div>
+						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+							<h5>Foundation</h5>
+						</div>
+						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+							<h5>Revolution Schedule</h5>
+						</div>
+						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+							<h5>Plinth Beam</h5>
+						</div>
+						<div class="col-lg-6 mb-6 mb-lg-0" data-aos="fade-right">
+							<h5>Roof Beam</h5>
+						</div>
+					</div>
+			  </div>
+			  <div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-dismiss="modal" style="background-color: #cfbe9a;border-color: #cfbe9a;">Close</button>
+			  </div>
+			</div>
+		  </div>
+		</div>
 
       </div>
     </section><!-- End Services Section -->
 	
- <!-- ======= Features Section ======= -->
+ <!-- ======= Features Section ======= 
     <section id="features" class="features" style="margin-top: 30px;">
       <div class="container">
 
@@ -255,7 +394,7 @@
         </div>
 
       </div>
-    </section><!-- End Features Section -->
+    </section> --><!-- End Features Section -->
 
 
   </main>
@@ -333,6 +472,7 @@
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
+  
   <!-- Vendor JS Files -->
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

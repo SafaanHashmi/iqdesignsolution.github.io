@@ -212,6 +212,72 @@
 		
 		
 		<div class="section-title" data-aos="fade-up" style="padding-bottom: 5px;">
+			<h2 style="text-align: left;"> <strong><i class="ri-star-line"></i> Living/Dining </strong> Room Design </h2>
+        </div>
+        <div class="row portfolio-container" data-aos="fade-up">
+          <div class="col-lg-4 col-md-6 portfolio-item">
+			<a href="assets/img/portfolio/interior-main/portfolio-7.1-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-7.1-main.jpg" class="img-fluid image-info" alt="">
+			</a>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item">
+			<a href="assets/img/portfolio/interior-main/portfolio-7.2-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-7.2-main.jpg" class="img-fluid image-info" alt="">
+			</a>
+          </div>
+		  <div class="col-lg-4 col-md-6 portfolio-item">
+			<a href="assets/img/portfolio/interior-main/portfolio-7.3-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-7.3-main.jpg" class="img-fluid image-info" alt="">
+			</a>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item">
+			<a href="assets/img/portfolio/interior-main/portfolio-7.4-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-7.4-main.jpg" class="img-fluid image-info" alt="">
+			</a>
+          </div>
+		</div>
+		
+		
+		 <div class="section-title" data-aos="fade-up" style="padding-bottom: 5px;">
+			<h2 style="text-align: left;"> <strong><i class="ri-star-line"></i> Drawing </strong> Room Degisn </h2>
+        </div>
+        <div class="row portfolio-container" data-aos="fade-up">
+          <div class="col-lg-4 col-md-6 portfolio-item">
+			<a href="assets/img/portfolio/interior-main/portfolio-8.1-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-8.1-main.jpg" class="img-fluid image-info" alt="">
+			</a>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item">
+			<a href="assets/img/portfolio/interior-main/portfolio-8.2-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-8.2-main.jpg" class="img-fluid image-info" alt="">
+			</a>
+          </div>
+        </div>
+		
+		
+		<div class="section-title" data-aos="fade-up" style="padding-bottom: 5px;">
+			<h2 style="text-align: left;"> <strong><i class="ri-star-line"></i> Lobby & Pantry </strong> Degisn </h2>
+        </div>
+        <div class="row portfolio-container" data-aos="fade-up">
+			<div class="col-lg-4 col-md-6 portfolio-item">
+				<a href="assets/img/portfolio/interior-main/portfolio-9.1-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+				<img src="assets/img/portfolio/interior-main/portfolio-9.1-main.jpg" class="img-fluid image-info" alt="">
+			</a>
+			</div>
+			<div class="col-lg-4 col-md-6 portfolio-item">
+				<a href="assets/img/portfolio/interior-main/portfolio-9.2-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+					<img src="assets/img/portfolio/interior-main/portfolio-9.2-main.jpg" class="img-fluid image-info" alt="">
+				</a>
+			</div>
+			<div class="col-lg-4 col-md-6 portfolio-item">
+				<a href="assets/img/portfolio/interior-main/portfolio-9.3-main-full.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link">
+					<img src="assets/img/portfolio/interior-main/portfolio-9.3-main.jpg" class="img-fluid image-info" alt="">
+				</a>
+			</div>
+		</div>
+		
+		
+		<div class="section-title" data-aos="fade-up" style="padding-bottom: 5px;">
 			<h2 style="text-align: left;"> <strong><i class="ri-star-line"></i> Office </strong> Degisn 1 </h2>
         </div>
         <div class="row portfolio-container" data-aos="fade-up">
@@ -231,6 +297,8 @@
 				</a>
 			</div>
 		</div>
+		
+		
 		
       </div>
     </section><!-- End Portfolio Section -->

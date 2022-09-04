@@ -114,13 +114,19 @@
 
             <div class="info-wrap">
               <div class="row">
-                <div class="col-lg-6 info mt-6 mt-lg-0" style="margin-bottom: 20px;">
+				<div class="col-lg-4 info">
+                  <i class="bi bi-geo-alt"></i>
+                  <h4>Location:</h4>
+                  <p>82, Haroon Colony, Khajrana, Indore</p>
+                </div>
+				
+                <div class="col-lg-4 info mt-4 mt-lg-0" style="margin-bottom: 20px;">
                   <i class="bi bi-envelope"></i>
                   <h4>Email:</h4>
                   <p>iq95designer@gmail.com</p>
                 </div>
 
-                <div class="col-lg-6 info mt-6 mt-lg-0">
+                <div class="col-lg-4 info mt-4 mt-lg-0">
                   <i class="bi bi-phone"></i>
                   <h4>Call:</h4>
                   <p>+91 96444-67873</p>
@@ -151,6 +157,7 @@
               
               <strong>Phone:</strong>&nbsp;+91 96444-67873<br>
               <strong>Email:</strong>&nbsp;&nbsp;  iq95designer@gmail.com<br>
+			  <strong>Address:</strong>&nbsp;&nbsp;  82, Haroon Colony, Khajrana, Indore<br>
             </p>
           </div>
 
@@ -187,17 +194,17 @@
       </div>
     </div>
 
-    <div class="container d-md-flex py-4">
+   <div class="container d-md-flex py-4">
 
-      <!--<div class="me-md-auto text-center text-md-start">
-        <div class="copyright">
-          &copy; Copyright <strong><span></span></strong>
-        </div>
+      <div class="me-md-auto text-center text-md-start">
+        <!--<div class="copyright">
+          Developed by <strong><span><a href="https://safaanhashmi.herokuapp.com/">Safaan Hashmi</a></span></strong>
+        </div>-->
         <div class="credits">
-         <a href="https://bootstrapmade.com/"></a>
+         Developed by <strong><span><a href="https://safaanhashmi.herokuapp.com/" target="_blank" style="color: #cfbe9a;">Safaan Hashmi</a>
         </div>
       </div>
-      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+      <!--<div class="social-links text-center text-md-right pt-3 pt-md-0">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>

@@ -258,6 +258,7 @@
               
               <strong>Phone:</strong>&nbsp;+91 96444-67873<br>
               <strong>Email:</strong>&nbsp;&nbsp;  iq95designer@gmail.com<br>
+			  <strong>Address:</strong>&nbsp;&nbsp;  82, Haroon Colony, Khajrana, Indore<br>
             </p>
           </div>
 
@@ -296,15 +297,15 @@
 
     <div class="container d-md-flex py-4">
 
-      <!--<div class="me-md-auto text-center text-md-start">
-        <div class="copyright">
-          &copy; Copyright <strong><span></span></strong>
-        </div>
+      <div class="me-md-auto text-center text-md-start">
+        <!--<div class="copyright">
+          Developed by <strong><span><a href="https://safaanhashmi.herokuapp.com/">Safaan Hashmi</a></span></strong>
+        </div>-->
         <div class="credits">
-         <a href="https://bootstrapmade.com/"></a>
+         Developed by <strong><span><a href="https://safaanhashmi.herokuapp.com/" target="_blank" style="color: #cfbe9a;">Safaan Hashmi</a>
         </div>
       </div>
-      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+      <!--<div class="social-links text-center text-md-right pt-3 pt-md-0">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>

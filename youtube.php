@@ -169,14 +169,100 @@
     </section><!-- End Breadcrumbs -->
 	
 	<!-- ======= Comming Soon ======= -->
-    <section>
+    <!--<section>
       <div class="container container1">
 		<div class="row wrapper1" style="text-align: center;" >
 			<h1 class="h1x">Comming Soon</h1>
 			<h3 style="color: white; font-family: 'Prompt', sans-serif; margin-top:10px">Go to next page</h3>
 		</div>
 	  </div>
-    </section>
+    </section> -->
+	
+	
+	
+	 <!-- ======= Our Team Section ======= -->
+    <section id="team" class="team section-bg">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>Our <strong>Video Gallery</strong></h2>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up"  style="height: 300px;">
+			<a href="https://www.youtube.com/" target="_blank">
+              <div class="member-img" style="height: 200px;">
+                <img src="assets/img/team/Youtube Thumbnail-1.png" class="img-fluid" alt="">
+                <div class="social">
+                  <i class="bi bi-play"></i>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Exterior Video 1</h4>
+                <span>Click to Play</span>
+              </div>
+			</a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="100"  style="height: 300px;">
+			<a href="https://www.youtube.com/" target="_blank">
+              <div class="member-img"  style="height: 200px;">
+                <img src="assets/img/team/Youtube Thumbnail-2.png" class="img-fluid" alt="">
+                <div class="social">
+                  <i class="bi bi-play"></i>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Interior Tour 1</h4>
+                <span>Click to Play</span>
+              </div>
+			</a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200" style="height: 300px;">
+			<a href="https://www.youtube.com/" target="_blank">
+              <div class="member-img" style="height: 200px;">
+                <img src="assets/img/team/Youtube Thumbnail-3.png" class="img-fluid" alt="">
+                <div class="social">
+                  <i class="bi bi-play"></i>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>House Tour 1</h4>
+                <span>Click to Play</span>
+              </div>
+			</a>
+            </div>
+          </div>
+
+          <!--<div class="col-lg- col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="300">
+			<a href="">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <i class="bi bi-play"></i>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Flat Tour 1</h4>
+                <span>Click to Play</span>
+              </div>
+			</a>
+            </div>
+          </div> -->
+
+        </div>
+
+      </div>
+    </section><!-- End Our Team Section -->
+
 	
   </main>
   <!-- End #main -->

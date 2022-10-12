@@ -913,7 +913,7 @@ section {
   left: 0;
   bottom: 0;
   right: 0;
-  height: 40px;
+  height: 100%;
   opacity: 0;
   transition: ease-in-out 0.3s;
   background: rgba(255, 255, 255, 0.85);
@@ -933,7 +933,7 @@ section {
   color: #f03c02;
 }
 .team .member .social i {
-  font-size: 18px;
+  font-size: 60px;
   line-height: 0;
 }
 .team .member .member-info {
